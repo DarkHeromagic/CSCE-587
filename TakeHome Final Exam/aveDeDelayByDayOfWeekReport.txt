@@ -1,0 +1,7 @@
+Report For Map Reduce 
+This result is as Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday : 9, 7, 7, 9, 11, 7, 9; The average per day is around 8, And The results are not exhibit 
+apart from each day of the week. The hypothesis is that some days of the week exhibit larger departure delays. If you we take a random sample of the population of (2000-2002-2008)
+Airline data sets. Make the null hypothesis be there the ave from Moday to Sunday from the sample are equal to the ave from the same date in the population, with some confident 
+interval above 90%. If else then reject the hypothesis. Since we already have the results, there clearly there is not exhibt larger departure date. Therefore, we will pick the 
+reasonable big size of sample from the population, it should reject the null hypothesis.
+
